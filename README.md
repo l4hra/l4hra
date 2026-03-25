@@ -57,7 +57,7 @@
 
 </div>&nbsp;&nbsp;
  
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/l4hra/l4hra/output/snake.svg" alt="Snake animation" />
 
