@@ -2,9 +2,6 @@
 
 <h1 align="left">🍒Hello everyone, I'm Lahra :)</h1>
 
-<p align="center">
-  <img src="./public/penguin.gif" width="300" alt="Gatinho fofo">
-</p>
 
 ## My Skills
 
